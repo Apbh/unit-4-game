@@ -1,0 +1,120 @@
+* {
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+    
+    }
+
+    html{
+        font-size:62.5%;
+        
+    }
+    
+    body{
+        font-size:1.6rem;
+        background-image: url("../images/background.jpg");
+        background-repeat: no-repeat;
+        min-height: 830px;
+        background-position: center;
+        background-size:cover;
+    
+    }
+    
+    .wrapper{
+        max-width:960px;
+        margin:0 auto;
+        border:1px solid black;
+        background-color: ghostwhite;
+        margin-top:100px;
+    }
+
+    header h1{
+        font-family: 'Bungee Shade', cursive;
+        text-align:center;
+        font-size:5rem;
+        color:midnightblue;
+    }
+
+    .instructions{
+        font-family: 'Mirza', cursive;
+        text-align:center;
+        margin-top:45px;
+    }
+
+    .instructions h2{
+        font-size:3rem;
+    }
+
+    #luck{
+        font-size:3rem;
+    }
+
+    .instructions p{
+        font-size:2rem;
+    }
+
+    #targetNumber, #total{
+        text-align:center;
+        font-family: 'Mirza', cursive;
+        font-size:2.5rem;
+        
+    }
+
+    #one.col-lg-6{
+        background: radial-gradient(lightcoral,pink, red);
+        padding:20px;
+        margin-top:30px;
+        margin-bottom:30px;
+        
+    }
+
+    #two.col-lg-6{
+        background:radial-gradient(lightyellow,lightsalmon,orangeRed);
+        padding:20px;
+        margin-top:30px;
+        margin-bottom:30px;
+        
+    }
+    
+    .col-md-3 img{
+        width:100px;
+        height:100px;
+        text-align: center;
+    }
+
+    #crystals{
+        text-align:center;
+        margin-top:10px;
+        margin-bottom:10px;
+
+    }
+
+    #stats{
+        text-align:center;
+        margin-top:50px;
+        margin-bottom: 20px;
+        font-family: 'Bungee Shade', cursive;
+        color: red;
+        font-size:3rem;
+    }
+
+    #wins{
+        margin-left:-65px;
+    }
+
+    #reset{
+        padding:5px;
+        border:none;
+    }
+
+    #reset:hover{
+        cursor: pointer;
+        background-color: white;
+        border:1px solid black;
+        
+    }
+
+    #reset:focus{
+        outline:0;
+    }
+
+    
+    
