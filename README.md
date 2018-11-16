@@ -25,7 +25,7 @@ Or visit https://apbh.github.io/unit-4-game/
 
 Creating With:
 
-*HTML
-*CSS
-*jQuery
-*Bootstrap
+* HTML
+* CSS
+* jQuery
+* Bootstrap
