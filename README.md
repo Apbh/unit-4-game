@@ -2,7 +2,7 @@ Crystal Master-Game
 
 
 A game created using JQuery. The objective of the game is to pick crystals so that their values add up to the target number value.
-Access the game at : https://apbh.github.io/unit-4-game/
+
 
 Instructions: The game begins with players getting a new target number to try and match to. Each crystal will randomly get a new value between 1-12. By clicking on crystals, their values will be added to the total score. You win if you total score is the same as the target score.
 
